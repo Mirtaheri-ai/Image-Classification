@@ -1,10 +1,6 @@
 # 🖼️ Image Classification
 
 <p align="center">
-  <img src="assets/banner.png" alt="Image Classification Banner" width="900"/>
-</p>
-
-<p align="center">
   <a href="https://github.com/Mirtaheri-ai/Image-Classification"><img alt="Repo" src="https://img.shields.io/badge/GitHub-Repository-black?logo=github"></a>
   <img alt="Python" src="https://img.shields.io/badge/Python-3.9%2B-blue?logo=python">
   <img alt="DL" src="https://img.shields.io/badge/Deep%20Learning-CNNs-orange">
